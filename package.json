@@ -1,0 +1,11 @@
+{
+  "name": "com.lumencat92.extentioner",
+  "version": "1.0.0",
+  "displayName": "Extentioner",
+  "description": "supports some of extention for easy work.",
+  "unity": "2022.2",
+  "author": {
+    "name": "LumenCat",
+    "email": "LumenCat@gmail.com"
+  }
+}
